@@ -21,7 +21,7 @@ The project includes SQL-based data validation and aggregation, Python visualiza
 
 I am an Analytics Engineer with professional experience in Python, SAS, and credit risk modeling, alongside a Ph.D. involving empirical research and statistical analysis.
 
-I am transitioning toward Healthcare Research Analytics, Real-World Evidence (RWE), and Digital Health, with an emphasis on Python and SQL.
+I am transitioning toward Healthcare Research Analytics, Real-World Evidence (RWE), and Digital Health, with a focus on Python, SQL, and developing proficiency in R.
 
 ## Academic Research
 
